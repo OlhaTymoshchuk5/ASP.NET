@@ -1,0 +1,55 @@
+﻿body {
+    background-color: white;
+}
+.Panels {
+    position: absolute;
+    border: solid 1px #002594;
+    background-color: ButtonFace;
+}
+
+.Labels {
+    position: absolute;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+}
+
+.Checkboxes {
+    position: absolute;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+}
+
+.Radios {
+    position: absolute;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+}
+
+.TextBoxes {
+    position: absolute;
+    border: solid 1px #002594;
+    height: 20px;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+}
+
+.Buttons {
+    height: 25px;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+}
+
+.CellStyle {
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+    border: solid 1px black;
+}

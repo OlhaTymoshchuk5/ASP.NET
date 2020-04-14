@@ -1,0 +1,40 @@
+﻿body {
+    background-image: url('../Pictures/Canva - Woman Wearing White Long-sleeved Shirt.jpg');
+}
+
+.MainPanel {
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    top: 10px;
+    left: 10px;
+    height: 616px;
+    right: 867px;
+}
+
+.Main
+
+.MainFrame {
+    position: absolute;
+    top: 16px;
+    left: 22px;
+    display: block;
+    width: 1363px;
+    height: 651px;
+    max-width: 60%;
+    max-height: 99%;
+    float:right;
+    margin-left: 300px;
+    padding: 0;
+    border: solid 1px #002594;
+    box-sizing: border-box;
+}
+
+{
+    position: absolute;
+    height: 48px;
+    border-radius: 12px;
+    font-family: Arial, Helvetica;
+    font-size: 12pt;
+    width: 130px;
+}

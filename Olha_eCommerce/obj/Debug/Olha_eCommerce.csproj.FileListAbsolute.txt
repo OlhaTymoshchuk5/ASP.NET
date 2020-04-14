@@ -1,0 +1,111 @@
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\Olha_eCommerce.dll.config
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\Olha_eCommerce.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\Olha_eCommerce.pdb
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csc.exe
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csc.exe.config
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csc.rsp
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csi.exe
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csi.exe.config
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csi.rsp
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Console.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\vbc.exe
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\vbc.exe.config
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\vbc.rsp
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\obj\Debug\Olha_eCommerce.csprojAssemblyReference.cache
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\obj\Debug\Olha_eCommerce.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\obj\Debug\Olha_eCommerce.csproj.CopyComplete
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\obj\Debug\Olha_eCommerce.dll
+C:\Users\Bob\Desktop\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\obj\Debug\Olha_eCommerce.pdb
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\Olha_eCommerce.dll.config
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\Olha_eCommerce.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\Olha_eCommerce.pdb
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csc.exe
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csc.exe.config
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csc.rsp
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csi.exe
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csi.exe.config
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\csi.rsp
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.Managed.Core.targets
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.AppContext.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Collections.Immutable.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Console.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.IO.Compression.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.IO.FileSystem.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.IO.Pipes.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Reflection.Metadata.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.AccessControl.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Claims.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Security.Principal.Windows.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.ValueTuple.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Xml.XmlDocument.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Xml.XPath.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\vbc.exe
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\vbc.exe.config
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\vbc.rsp
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\VBCSCompiler.exe
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\roslyn\VBCSCompiler.exe.config
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\obj\Debug\Olha_eCommerce.csprojAssemblyReference.cache
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\obj\Debug\Olha_eCommerce.csproj.CopyComplete
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\obj\Debug\Olha_eCommerce.dll
+E:\all data\Fanshawe Study_Important\Semester 2\INFO 3091 ASP.NET\Labs\Lab2\Olha_eCommerce\Olha_eCommerce\obj\Debug\Olha_eCommerce.pdb
